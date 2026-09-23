@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Pieski i kotki\Pieski i kotki\bin\Debug\net10.0\Pieski i kotki.exe
+C:\Users\Student\Desktop\Pieski i kotki\Pieski i kotki\bin\Debug\net10.0\Pieski i kotki.deps.json
+C:\Users\Student\Desktop\Pieski i kotki\Pieski i kotki\bin\Debug\net10.0\Pieski i kotki.runtimeconfig.json
+C:\Users\Student\Desktop\Pieski i kotki\Pieski i kotki\bin\Debug\net10.0\Pieski i kotki.dll
+C:\Users\Student\Desktop\Pieski i kotki\Pieski i kotki\bin\Debug\net10.0\Pieski i kotki.pdb
+C:\Users\Student\Desktop\Pieski i kotki\Pieski i kotki\obj\Debug\net10.0\Pieski i kotki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Pieski i kotki\Pieski i kotki\obj\Debug\net10.0\Pieski i kotki.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Pieski i kotki\Pieski i kotki\obj\Debug\net10.0\Pieski i kotki.AssemblyInfo.cs
+C:\Users\Student\Desktop\Pieski i kotki\Pieski i kotki\obj\Debug\net10.0\Pieski i kotki.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Pieski i kotki\Pieski i kotki\obj\Debug\net10.0\Pieski i kotki.dll
+C:\Users\Student\Desktop\Pieski i kotki\Pieski i kotki\obj\Debug\net10.0\refint\Pieski i kotki.dll
+C:\Users\Student\Desktop\Pieski i kotki\Pieski i kotki\obj\Debug\net10.0\Pieski i kotki.pdb
+C:\Users\Student\Desktop\Pieski i kotki\Pieski i kotki\obj\Debug\net10.0\Pieski i kotki.genruntimeconfig.cache
+C:\Users\Student\Desktop\Pieski i kotki\Pieski i kotki\obj\Debug\net10.0\ref\Pieski i kotki.dll

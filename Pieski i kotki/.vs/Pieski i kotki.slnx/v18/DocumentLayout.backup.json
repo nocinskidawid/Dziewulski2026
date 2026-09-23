@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\Pieski i kotki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD76D9D6-0698-4920-B02A-C21355ED89E6}|Pieski i kotki\\Pieski i kotki.csproj|c:\\users\\student\\desktop\\pieski i kotki\\pieski i kotki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD76D9D6-0698-4920-B02A-C21355ED89E6}|Pieski i kotki\\Pieski i kotki.csproj|solutionrelative:pieski i kotki\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Pieski i kotki\\Pieski i kotki\\Program.cs",
+              "RelativeDocumentMoniker": "Pieski i kotki\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Pieski i kotki\\Pieski i kotki\\Program.cs",
+              "RelativeToolTip": "Pieski i kotki\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwCsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T08:17:26.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
