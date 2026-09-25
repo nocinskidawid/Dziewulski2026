@@ -25,9 +25,9 @@
             android:layout_height="100dp"
             app:srcCompat="@drawable/kosc0"
             android:layout_margin="10dp"
-            android:onClick="rzut"
-            android:tag="0"
-            />
+            android:onClick="ToogleLock"
+            android:tag="1"
+            android:alpha="255"/>
 
         <ImageView
             android:id="@+id/kosc1"
@@ -35,9 +35,9 @@
             android:layout_height="100dp"
             app:srcCompat="@drawable/kosc0"
             android:layout_margin="10dp"
-            android:onClick="rzut"
+            android:onClick="ToogleLock"
             android:tag="1"
-            />
+            android:alpha="255"/>
     </LinearLayout>
 
     <LinearLayout
@@ -51,29 +51,29 @@
             android:id="@+id/kosc2"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            app:srcCompat="@drawable/kosc0"
             android:layout_margin="10dp"
-            android:onClick="rzut"
-            android:tag="2"
-            />
+            android:onClick="ToogleLock"
+            android:tag="1"
+            app:srcCompat="@drawable/kosc0"
+            android:alpha="255"/>
         <ImageView
             android:id="@+id/kosc3"
             android:layout_width="100dp"
             android:layout_height="100dp"
             app:srcCompat="@drawable/kosc0"
             android:layout_margin="10dp"
-            android:onClick="rzut"
-            android:tag="3"
-            />
+            android:onClick="ToogleLock"
+            android:tag="1"
+            android:alpha="255"/>
         <ImageView
             android:id="@+id/kosc4"
             android:layout_width="100dp"
             android:layout_height="100dp"
             app:srcCompat="@drawable/kosc0"
             android:layout_margin="10dp"
-            android:onClick="rzut"
-            android:tag="4"
-            />
+            android:onClick="ToogleLock"
+            android:tag="1"
+            android:alpha="255"/>
     </LinearLayout>
 
     <LinearLayout

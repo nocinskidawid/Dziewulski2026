@@ -4,13 +4,14 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import java.util.stream.IntStream;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -31,9 +32,7 @@ public class MainActivity extends AppCompatActivity {
             R.drawable.kosc5,
             R.drawable.kosc6
     };
-
-    public int[] wartosciKosci = {0, 0, 0, 0, 0};
-    public int suma = 0;
+        public int[] suma = {0,0,0,0,0};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -47,40 +46,35 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    public void rzutKoscia(int viewId){
-        int los = (int)(Math.random() * 6) + 1;
-        ImageView kosc = findViewById(viewId);
-        int index = 0;
 
-        for (int i = 0; i < kosci.length; i++) {
-            if (kosci[i] == viewId) {
-                index = i;
-                break;
+    public void rzut(View view)
+    {
+        for(int i = 0; i < kosci.length; i++){
+            ImageView kosc = findViewById(kosci[i]);
+            int tag = Integer.parseInt(kosc.getTag().toString());
+
+            if(tag == 1){
+                int los = (int)(Math.random() * 6) + 1;
+                kosc.setImageResource(obrazki[los]);
+                suma[i]=los;
             }
         }
-
-        suma -= wartosciKosci[index];
-        suma += los;
-
-        wartosciKosci[index] = los;
-        kosc.setImageResource(obrazki[los]);
-
         TextView result = findViewById(R.id.result);
-        result.setText(String.valueOf(suma));
+        int resultValue = IntStream.of(suma).sum();
+        result.setText(String.valueOf(resultValue));
     }
-    public void rzut(View view) {
-        //Toast.makeText(this, "Debug: tutaj jestem", Toast.LENGTH_SHORT).show();
+
+
+    public void ToogleLock(View view) {
         int tag = Integer.parseInt(view.getTag().toString());
-        if(tag>=0){
-            rzutKoscia(kosci[tag]);
+
+        if(tag==1){
+            view.setTag("0");
+            view.setAlpha(0.5f);
         }
-        else if(tag == -1){
-            for(int i = 0; i < kosci.length; i++){
-                rzutKoscia(kosci[i]);
-            }
-        }
-        else{
-            //catch exception
+        else if(tag==0){
+            view.setTag("1");
+            view.setAlpha(1f);
         }
     }
 }
