@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\zadankajakies\zadankajakies\bin\Debug\net10.0\zadankajakies.exe
+C:\Users\Student\Desktop\zadankajakies\zadankajakies\bin\Debug\net10.0\zadankajakies.deps.json
+C:\Users\Student\Desktop\zadankajakies\zadankajakies\bin\Debug\net10.0\zadankajakies.runtimeconfig.json
+C:\Users\Student\Desktop\zadankajakies\zadankajakies\bin\Debug\net10.0\zadankajakies.dll
+C:\Users\Student\Desktop\zadankajakies\zadankajakies\bin\Debug\net10.0\zadankajakies.pdb
+C:\Users\Student\Desktop\zadankajakies\zadankajakies\obj\Debug\net10.0\zadankajakies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\zadankajakies\zadankajakies\obj\Debug\net10.0\zadankajakies.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\zadankajakies\zadankajakies\obj\Debug\net10.0\zadankajakies.AssemblyInfo.cs
+C:\Users\Student\Desktop\zadankajakies\zadankajakies\obj\Debug\net10.0\zadankajakies.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\zadankajakies\zadankajakies\obj\Debug\net10.0\zadankajakies.dll
+C:\Users\Student\Desktop\zadankajakies\zadankajakies\obj\Debug\net10.0\refint\zadankajakies.dll
+C:\Users\Student\Desktop\zadankajakies\zadankajakies\obj\Debug\net10.0\zadankajakies.pdb
+C:\Users\Student\Desktop\zadankajakies\zadankajakies\obj\Debug\net10.0\zadankajakies.genruntimeconfig.cache
+C:\Users\Student\Desktop\zadankajakies\zadankajakies\obj\Debug\net10.0\ref\zadankajakies.dll
