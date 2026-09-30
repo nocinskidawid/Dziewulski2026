@@ -1,0 +1,15 @@
+C:\Users\Pc\Desktop\Dziewulski2026\RPG\RPGBattle2\RPGBattle2\obj\Debug\net8.0\RPGBattle2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\Dziewulski2026\RPG\RPGBattle2\RPGBattle2\obj\Debug\net8.0\RPGBattle2.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\Dziewulski2026\RPG\RPGBattle2\RPGBattle2\obj\Debug\net8.0\RPGBattle2.AssemblyInfo.cs
+C:\Users\Pc\Desktop\Dziewulski2026\RPG\RPGBattle2\RPGBattle2\obj\Debug\net8.0\RPGBattle2.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Dziewulski2026\RPG\RPGBattle2\RPGBattle2\obj\Debug\net8.0\RPGBattle2.sourcelink.json
+C:\Users\Pc\Desktop\Dziewulski2026\RPG\RPGBattle2\RPGBattle2\bin\Debug\net8.0\RPGBattle2.exe
+C:\Users\Pc\Desktop\Dziewulski2026\RPG\RPGBattle2\RPGBattle2\bin\Debug\net8.0\RPGBattle2.deps.json
+C:\Users\Pc\Desktop\Dziewulski2026\RPG\RPGBattle2\RPGBattle2\bin\Debug\net8.0\RPGBattle2.runtimeconfig.json
+C:\Users\Pc\Desktop\Dziewulski2026\RPG\RPGBattle2\RPGBattle2\bin\Debug\net8.0\RPGBattle2.dll
+C:\Users\Pc\Desktop\Dziewulski2026\RPG\RPGBattle2\RPGBattle2\bin\Debug\net8.0\RPGBattle2.pdb
+C:\Users\Pc\Desktop\Dziewulski2026\RPG\RPGBattle2\RPGBattle2\obj\Debug\net8.0\RPGBattle2.dll
+C:\Users\Pc\Desktop\Dziewulski2026\RPG\RPGBattle2\RPGBattle2\obj\Debug\net8.0\refint\RPGBattle2.dll
+C:\Users\Pc\Desktop\Dziewulski2026\RPG\RPGBattle2\RPGBattle2\obj\Debug\net8.0\RPGBattle2.pdb
+C:\Users\Pc\Desktop\Dziewulski2026\RPG\RPGBattle2\RPGBattle2\obj\Debug\net8.0\RPGBattle2.genruntimeconfig.cache
+C:\Users\Pc\Desktop\Dziewulski2026\RPG\RPGBattle2\RPGBattle2\obj\Debug\net8.0\ref\RPGBattle2.dll
